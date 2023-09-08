@@ -11,11 +11,9 @@ Tailwind CSS Project Setup
 
    cd [project-folder-name]
    ```
-   Check out tailwind docs for more information https://tailwindcss.com/docs/installation/using-postcss
    
-3. Install Dependencies:
+2. Install Dependencies:
    ```
-
    # Using npm
    npm install -D tailwindcss postcss autoprefixer vite
    npx tailwindcss init -p
@@ -23,8 +21,10 @@ Tailwind CSS Project Setup
    # Using Yarn
    yarn
    ```
+   Check out tailwind docs for more information https://tailwindcss.com/docs/installation/using-postcss
+   
 
-4. Start the Development Server:
+3. Start the Development Server:
    ```
    # Using npm
    npm run start
@@ -33,6 +33,6 @@ Tailwind CSS Project Setup
    yarn run start
    ```
 
-5. Start Experimenting:
+4. Start Experimenting:
    Open index.html in your code editor and start experimenting with the Tailwind CSS Pinterest Navbar.
 
