@@ -10,6 +10,7 @@ Tailwind CSS Project Setup
    git clone https://github.com/Rohit177/Pinterest-Tailwind-Nav-UI
 
    cd [project-folder-name]
+   ```
 
 3. Install Dependencies:
    ```
@@ -19,6 +20,7 @@ Tailwind CSS Project Setup
    
    # Using Yarn
    yarn
+   ```
 
 3. Start the Development Server:
    ```
@@ -27,6 +29,7 @@ Tailwind CSS Project Setup
    
    # Using Yarn
    yarn run start
+   ```
 
 4. Start Experimenting:
 
