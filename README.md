@@ -36,3 +36,7 @@ Tailwind CSS Project Setup
 4. Start Experimenting:
    Open index.html in your code editor and start experimenting with the Tailwind CSS Pinterest Navbar.
 
+# Output Image
+![Screenshot (89)](https://github.com/Rohit177/Pinterest-Tailwind-Nav-UI/assets/34981708/c70d4d2b-5898-4e81-9772-b0d88212f2e1)
+
+
