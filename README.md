@@ -2,17 +2,33 @@
 
 This project demonstrates the creation of a Pinterest-inspired navigation bar using the power of Tailwind CSS.
 
-# Tailwind CSS Project Setup
+Tailwind CSS Project Setup
 
 1. **Clone the Repository:**
-
+   ```
    bash
    git clone https://github.com/Rohit177/Pinterest-Tailwind-Nav-UI
 
    cd [project-folder-name]
 
-# Using npm
-npm install
+3. Install Dependencies:
+   ```
+   # Using npm
+   npm install -D tailwindcss postcss autoprefixer vite
+   npx tailwindcss init -p
+   
+   # Using Yarn
+   yarn
 
-# Using Yarn
-yarn
+3. Start the Development Server:
+   ```
+   # Using npm
+   npm run start
+   
+   # Using Yarn
+   yarn run start
+
+4. Start Experimenting:
+
+Open index.html in your code editor and start experimenting with the Tailwind CSS Pinterest Navbar.
+
