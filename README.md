@@ -9,7 +9,7 @@ Tailwind CSS Project Setup
    bash
    git clone https://github.com/Rohit177/Pinterest-Tailwind-Nav-UI
 
-   cd [project-folder-name]
+   cd Pinterest-Tailwind-Nav-UI
    ```
    
 2. Install Dependencies:
